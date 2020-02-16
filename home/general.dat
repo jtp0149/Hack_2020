@@ -1,0 +1,44 @@
+D
+s	1
+s	s	1
+s	c	1
+s	c	0
+h	170
+W	p
+h	120
+h	130
+W	p
+W	n	1530
+h	130
+W	p
+d	p	2
+d	p	3
+d	n	1	1745
+N
+d	n	1	2204
+w	p	3
+w	n	1	0100
+d	p	1
+e	0
+D
+s	s	1
+s	c	1
+s	c	1
+h	140
+W	p
+h	140
+h	140
+W	p
+W	p
+h	130
+W	p
+d	p	2
+d	p	3
+d	p	1
+N
+d	p	1
+w	p	3
+w	p	1
+d	p	1
+e	0
+x
